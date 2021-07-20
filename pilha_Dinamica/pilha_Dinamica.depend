@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1506713624 source:c:\users\marcus\documents\pilha_dinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+
