@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1505848483 source:c:\users\marcus\documents\fila estatica\main.c
+	<stdio.h>
+	<stdlib.h>
+
