@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1508331108 source:c:\users\marcus\documents\fatorial_recursao\main.c
+	<stdio.h>
+	<stdlib.h>
+
